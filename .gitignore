@@ -1,0 +1,10 @@
+target/
+
+# IntelliJ specific
+.idea/
+
+# Ivy2 specific
+.ivy2/
+
+# SBT specific
+.sbt/
